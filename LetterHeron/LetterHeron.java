@@ -16,7 +16,7 @@ public class LetterHeron
 			System.out.println("[+] 3. Character count tool \n");
 			System.out.println("[+] 4. Help \n");
 			tool = scan.nextInt();
-			if(tool < 5)
+			if(tool < 5 && tool > 0)
 			{
 				if(tool != 4)
 				{
