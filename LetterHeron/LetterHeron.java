@@ -47,9 +47,7 @@ public class LetterHeron
 				help.helpUser();
 				break;
 				
-				case 5:
-				System.exit(0);
-				break;
+				
 			}
 		}catch(Exception e)
 		{
