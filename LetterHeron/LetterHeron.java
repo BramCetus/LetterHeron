@@ -43,8 +43,7 @@ public class LetterHeron
 				break;
 			
 				case 4:
-				Help help = new Help();
-				help.helpUser();
+				Help.helpUser();
 				break;
 				
 				
